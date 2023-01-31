@@ -1,0 +1,12 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+}
+.nav a{
+    text-decoration:none;
+    color:White;
+    cursor:pointer;
+}
+.nav a:hover{
+    color: var(--orange);
+}
